@@ -21,7 +21,9 @@ common warnings
 
 library
   import:           warnings
-  exposed-modules:  Parsing
+  exposed-modules:
+    Parsing
+    UTCTime
 
   -- other-modules:
   -- other-extensions:
